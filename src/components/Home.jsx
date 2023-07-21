@@ -27,7 +27,7 @@ export default function Home() {
                         <img src={ny}></img>
                     </div>
                         <div className="">
-                            <h1 className="text-center font-semibold pt-2 text-lg text-gray-800">Noya York - Estados Unidos</h1>
+                            <h1 className="text-center font-semibold pt-2 text-lg text-gray-800">Noya York-Estados Unidos</h1>
                         </div>
                             <div>
                                 <img className="pt-2 mx-auto w-20 h-20 rounded-lg" src={usa}></img>
