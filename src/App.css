@@ -1,7 +1,7 @@
 @import "./reset.css";
 
 #root {
-  max-width: 1920px;
+  max-width: full;
   margin: 0 auto;
   padding: 0;
   text-align: center;

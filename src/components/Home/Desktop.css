@@ -1,0 +1,6 @@
+.Desktop {
+    background: url("../../assets/backgrounds/bgDesktop.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
